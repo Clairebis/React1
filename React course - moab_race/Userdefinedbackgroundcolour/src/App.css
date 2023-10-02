@@ -1,0 +1,24 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.colourBox {
+  width: 400px;
+  height: 200px;
+  padding: 15px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.text {
+  color: black;
+}
